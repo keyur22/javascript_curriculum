@@ -113,3 +113,4 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [Onur's solution](https://github.com/deksudo/RockPaperScissors) - [View in browser (UI version)](https://deksudo.github.io/RockPaperScissors/)
 - [Lucas Manzano's solution](https://github.com/lucasmfarias1/rock-paper-scissors) - [View in browser](https://lucasmfarias1.github.io/rock-paper-scissors/)
 - [Nick Prieto's Solution](https://github.com/NickWhoCodes/RockPaperScissors)
+- [keyur22's solution(Console only)](https://github.com/keyur22/Rock-Paper-Scissors) 
